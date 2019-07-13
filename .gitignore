@@ -1,1 +1,2 @@
-# Placeholder
+# Video files are huge! Don't store these into git
+*.mp4
