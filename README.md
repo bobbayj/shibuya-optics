@@ -8,6 +8,11 @@ Image recognition using deep learning to recognise common household items (focus
 4. I could use **Transfer Learning** to pre-train my model, then fine-tune it to my specific datasets
 5. By the end of the project, I can theoretically take a photo of any product and know what it is (in a general sense, i.e. it is Lurpak butter, but I don't know if its salted/unsalted)
 
+## Dependencies not in pipfile:
+- imgaug (https://github.com/aleju/imgaug)
+- Tensorflow-gpu (https://www.tensorflow.org/install/gpu)
+    - Recommended to use GTX 1060 or above!
+
 ## Useful Docs
 https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/
 - Important to plan code at a production level to ensure reproducibility
