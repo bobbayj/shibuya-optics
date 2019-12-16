@@ -40,3 +40,5 @@ https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project
 
 # Other
 Fun fact: name of this repo was inspired by the Shibuya crossing. I was going to try and recognise objects from YouTube's livestream of the Shibuya crossing, but some forethought told me that won't be super useful...
+
+Nonetheless, good opportunity to practice my machine learning for fun - can be used to detect the demographic in the area for smarter advertising in areas like these?
